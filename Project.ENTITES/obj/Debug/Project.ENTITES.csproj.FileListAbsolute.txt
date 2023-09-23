@@ -1,0 +1,6 @@
+C:\Users\dince\source\repos\PlakaKontrol\Project.ENTITES\bin\Debug\Project.ENTITES.dll
+C:\Users\dince\source\repos\PlakaKontrol\Project.ENTITES\bin\Debug\Project.ENTITES.pdb
+C:\Users\dince\source\repos\PlakaKontrol\Project.ENTITES\obj\Debug\Project.ENTITES.csproj.AssemblyReference.cache
+C:\Users\dince\source\repos\PlakaKontrol\Project.ENTITES\obj\Debug\Project.ENTITES.csproj.CoreCompileInputs.cache
+C:\Users\dince\source\repos\PlakaKontrol\Project.ENTITES\obj\Debug\Project.ENTITES.dll
+C:\Users\dince\source\repos\PlakaKontrol\Project.ENTITES\obj\Debug\Project.ENTITES.pdb
